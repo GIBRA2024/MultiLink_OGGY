@@ -42,6 +42,17 @@ p {
     color: black;
     font-size: 14px;
 }
+/* Estilo para el enlace */
+a {
+    text-decoration: none; /* Quitar el subrayado */
+    color: #000000; /* Cambiar el color a negro (puedes cambiarlo por cualquier color que desees) */
+}
+
+/* Estilo al pasar el mouse (opcional) */
+a:hover {
+    color: #f4a029; /* Color al pasar el mouse (puedes elegir otro color) */
+}
+
 
 .social-buttons {
     margin-top: 210px;
